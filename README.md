@@ -9,7 +9,7 @@ This project was created as part of the **Digital Society (LAL3080)** course and
 ---
 
 ## 🌐 Live Demo  
-[(website link)](https://nitesh0409.github.io/rajasthan-tourist-places/)
+[click here 👈](https://nitesh0409.github.io/rajasthan-tourist-places/)
 
 ---
 
